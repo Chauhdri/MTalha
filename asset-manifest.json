@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/M-Talha/static/css/main.dfe23281.css",
+    "main.js": "/M-Talha/static/js/main.b0ca44ec.js",
+    "static/js/496.1c9e543b.chunk.js": "/M-Talha/static/js/496.1c9e543b.chunk.js",
+    "static/media/logo.svg": "/M-Talha/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/M-Talha/index.html",
+    "main.dfe23281.css.map": "/M-Talha/static/css/main.dfe23281.css.map",
+    "main.b0ca44ec.js.map": "/M-Talha/static/js/main.b0ca44ec.js.map",
+    "496.1c9e543b.chunk.js.map": "/M-Talha/static/js/496.1c9e543b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfe23281.css",
+    "static/js/main.b0ca44ec.js"
+  ]
+}
