@@ -1,7 +1,18 @@
 {
   "compilerOptions": {
     "paths": {
-      "@components/*": ["./src/*"]
+      "@slaves/*": [
+        "./src/components/slaves/*"
+      ],
+      "@home/*": [
+        "./src/components/home/*"
+      ],
+      "@utils/*": [
+        "./src/components/utils/*"
+      ],
+      "@components/*": [
+        "./src/components/*"
+      ]
     }
   }
 }
